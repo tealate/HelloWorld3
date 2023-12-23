@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HelloSlime3",
+			"Path": "..\\Source\\HelloSlime3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HelloSlime3Editor",
+			"Path": "..\\Source\\HelloSlime3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

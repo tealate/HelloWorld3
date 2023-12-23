@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\HelloSlime3.Build.cs",
+		"C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3.Target.cs",
+		"C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

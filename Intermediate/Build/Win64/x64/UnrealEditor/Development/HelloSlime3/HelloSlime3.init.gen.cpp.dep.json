@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\cepiclibrary\\cueproject\\helloslime3\\intermediate\\build\\win64\\unrealeditor\\inc\\helloslime3\\uht\\helloslime3.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\cepiclibrary\\cueproject\\helloslime3\\intermediate\\build\\win64\\x64\\helloslime3editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\cepiclibrary\\cueproject\\helloslime3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\helloslime3\\definitions.helloslime3.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
