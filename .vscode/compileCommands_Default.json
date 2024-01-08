@@ -72,6 +72,22 @@
 		"directory": "C:\\CEpicLibrary\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\MyAsyncTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\.vscode\\compileCommands_Default\\HelloSlime3.1.rsp"
+		],
+		"directory": "C:\\CEpicLibrary\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\MyAsyncTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\.vscode\\compileCommands_Default\\HelloSlime3.1.rsp"
+		],
+		"directory": "C:\\CEpicLibrary\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\MyTameshiInstancedMesh2.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
@@ -97,6 +113,22 @@
 	},
 	{
 		"file": "C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\TameshiInstancedMesh.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\.vscode\\compileCommands_Default\\HelloSlime3.1.rsp"
+		],
+		"directory": "C:\\CEpicLibrary\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\WorldCreatorHub.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\.vscode\\compileCommands_Default\\HelloSlime3.1.rsp"
+		],
+		"directory": "C:\\CEpicLibrary\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\Source\\HelloSlime3\\WorldCreatorHub.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\CEpicLibrary\\CUEProject\\HelloSlime3\\.vscode\\compileCommands_Default\\HelloSlime3.1.rsp"

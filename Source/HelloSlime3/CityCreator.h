@@ -7,6 +7,10 @@
 #include "UObject/Class.h"
 #include "CityCreator.generated.h"
 
+//町を生成するアクター、のつもりだった何か
+//空間をチャンクで区切りをつけて管理することで処理速度と管理効率を上げる目的で作った
+//WorldCreatorHubというアクターコンポーネントにしたやつがあるのでそっちを使うこと
+
 UCLASS()
 class HELLOSLIME3_API ACityCreator : public AActor
 {

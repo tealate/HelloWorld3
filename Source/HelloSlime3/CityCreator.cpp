@@ -35,8 +35,7 @@ void ACityCreator::BeginPlay()
 {
 	Super::BeginPlay();
 	//ChankDrawMan(GetPlayerActor(),DrawChank);
-	UE_LOG(LogTemp, Display, TEXT("My Point Is : %s"),*GetPlayerActor().ToString());
-	ChankCreateMan(GetPlayerActor(),DrawChank);
+	//ChankCreateMan(GetPlayerActor(),DrawChank);
 }
 
 // Called every frame
@@ -48,7 +47,7 @@ void ACityCreator::Tick(float DeltaTime)
 	//ChankCreateMan(PlayerLocate,DrawChank);
 	//CityShadowMaker();
 	DrawDebugBox(GetWorld(),FVector(0,0,0),FVector(10,10,10),FColor::Blue,0);
-	DebugAtBoxList(&ChankGroupList);
+	//DebugAtBoxList(&ChankGroupList);
 	//DebugAtLineList(LineList);
 	//DrawDebugBox(GetWorld(), FVector(0,0,0),FVector(FirstChankScale/2, FirstChankScale/2, FirstChankScale/2),FColor::Red,0);
 }

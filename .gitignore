@@ -1,4 +1,5 @@
 #gitでの容量削減
 DerivedDataCache/
 *.pch
+/Saved/Logs/
 #両方起動の速度上げるためのフォルダ、のはず、多分

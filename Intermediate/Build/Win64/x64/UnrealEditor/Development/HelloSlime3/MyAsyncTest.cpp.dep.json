@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\cepiclibrary\\cueproject\\helloslime3\\source\\helloslime3\\myasynctest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\cepiclibrary\\cueproject\\helloslime3\\intermediate\\build\\win64\\x64\\helloslime3editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\cepiclibrary\\cueproject\\helloslime3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\helloslime3\\definitions.helloslime3.h",
+            "c:\\cepiclibrary\\cueproject\\helloslime3\\source\\helloslime3\\myasynctest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
